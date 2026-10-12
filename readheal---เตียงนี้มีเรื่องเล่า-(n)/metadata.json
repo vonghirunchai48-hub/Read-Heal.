@@ -1,0 +1,10 @@
+{
+  "name": "ReadHeal - เตียงนี้มีเรื่องเล่า (N)",
+  "description": "แพลตฟอร์มจิตอาสาอ่านหนังสือบำบัดใจเพื่อผู้ป่วยในโรงพยาบาล (Hospital Patient Reading Support Platform)",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
